@@ -42,7 +42,7 @@ print("The Conversion from Belize Dollar to US dollar is: " + USD)
 
 # Week 01 - Wednesday Assignemnts 
 ### Translate the year you where born to binary, decimal and hexadecimal 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `I am traveling Cross Countries so The best I could do was to solve with napkins and Paper :[`
+
 1. Binary 
 * Year Born = `2000`| Year Born In Binary = `11111010000` Below is how I worked it out 
 ![This is an image](https://cdn.glitch.global/4710df49-ef60-4c99-a2a5-a2630ac50f5c/WhatsApp%20Image%202022-01-12%20at%207.44.42%20AM.jpeg?v=1641995355514)<br/>
@@ -56,7 +56,7 @@ print("The Conversion from Belize Dollar to US dollar is: " + USD)
 * Hexadecimal = `CAFE`
 ![This is an image](https://cdn.glitch.global/4710df49-ef60-4c99-a2a5-a2630ac50f5c/WhatsApp%20Image%202022-01-12%20at%205.25.08%20PM.jpeg?v=1642030027503)
 * Binary = `1100 1010 1111 1110`
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Sorry :( Bad Lighting where I am hahah and the phone is very low end :[ Herzlichen Dank`
+
 ![This is an image](https://cdn.glitch.global/4710df49-ef60-4c99-a2a5-a2630ac50f5c/WhatsApp%20Image%202022-01-12%20at%205.52.13%20PM.jpeg?v=1642031643738)
 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
 * 5.1 = 
