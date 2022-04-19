@@ -86,13 +86,13 @@ return c
 }
 
 2. Codewars 2nd Challenge 
-* Answer =  function uniTotal (str) {
+* Answer =  function uniTotal(str) {
 // total up dem unicodes!
-   var count = 0;
-  for (var i = 0; i < str.length; i++) {
-    count += str.charCodeAt(i);
+  let total = 0;
+  for (let i = 0, length = str.length; i < length; i++) {
+    total += str[i].charCodeAt();
   }
-  return count;
+  return total;
 }
 3. Codewars 3rd Challenge 
 * Answer =  function getChar(c){
