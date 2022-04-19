@@ -81,7 +81,8 @@ print("The Conversion from Belize Dollar to US dollar is: " + USD)
 1.) CodeWars 1st Challenge 
 * Answer = 
 * function multiply(a, b){
- return a * b
+ let c = a * b
+return c
 }
 
 2. Codewars 2nd Challenge 
