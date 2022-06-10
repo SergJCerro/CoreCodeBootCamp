@@ -396,4 +396,49 @@ let ranking ={
    return arr.map(x => test(x) ? reverse(x) : rotate(x)).join("");
 }
 ## Week 05 Tuesday 
+1. Codewars Challenge 
+* function find(rats) {
+    // return number of poisoned bottle
+  return rats.reduce((a,b)=> a+ Math.pow(2,b),0)
+}
+2. Codewars Challenge
+* function array_diff(a, b) {
+  return a.filter(e => !b.includes(e));
+}
+# Week 06
+## Monday
+1. Codewars Chalenge 
+* export function squareSum(numbers: number[]): number {
+let sum = 0 
+for( const num of numbers){
+  sum += num * num
+}
+  return sum
+}
+2. Codewars Challenge
+* export class G964 {
 
+    public static nbYear = (p0, percent, aug, p) => {
+        // your code
+      let years = 0;
+      for(years; p0 <p ; years++){
+        p0 += p0 * (percent /100) + aug;
+      }
+      return years
+    }
+}
+3. Codewars Challenge 
+* export class G964 {
+
+    public static nbYear = (p0, percent, aug, p) => {
+        // your code
+      let years = p0;
+      let i = 0
+      while(years <p ) {
+        years = Math.floor((1 + percent/ 100) * years) + aug;
+        i++
+      }
+      return i
+    }
+}
+4. Codewars Challenge
